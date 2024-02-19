@@ -1,0 +1,16 @@
+MCAL/EXTI_DRIVER/EXTI_interface.d MCAL/EXTI_DRIVER/EXTI_interface.o: \
+ ../MCAL/EXTI_DRIVER/EXTI_interface.c \
+ ../MCAL/EXTI_DRIVER/../../LIB/STD_TYPE.h \
+ ../MCAL/EXTI_DRIVER/../../LIB/BIT_MATH.h \
+ ../MCAL/EXTI_DRIVER/../DIO_DRIVER/DIO_interface.h \
+ ../MCAL/EXTI_DRIVER/EXTI_interface.h ../MCAL/EXTI_DRIVER/EXTI_private.h
+
+../MCAL/EXTI_DRIVER/../../LIB/STD_TYPE.h:
+
+../MCAL/EXTI_DRIVER/../../LIB/BIT_MATH.h:
+
+../MCAL/EXTI_DRIVER/../DIO_DRIVER/DIO_interface.h:
+
+../MCAL/EXTI_DRIVER/EXTI_interface.h:
+
+../MCAL/EXTI_DRIVER/EXTI_private.h:
